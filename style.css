@@ -1,0 +1,86 @@
+body {
+	background-color:#E5E5E5;
+	font-family:calibri;
+	margin:0 70px;
+}
+
+p {
+	margin: 0px;
+	font-size: 12px;
+}
+
+.maincointainer {
+	width:100%;
+	display:flex;
+}
+
+
+.personal {
+	width:350px;
+	background-color: #AEB6BF;
+	float:left;
+	padding:5px;
+	font-size: 13px;
+}
+
+.information {
+	width:100%;
+	display:inline-block;
+}
+
+.headers {
+	color:white;
+	text-transform:uppercase;
+	margin: 5px 20px;
+	display:inline-block;
+}
+
+.year {
+	background-color: #D4E6F1;
+	width:200px;
+	padding: 5px;
+	display:inline-block;
+	text-align: center;
+}
+
+.content {
+	background-color: white;
+	display:inline-block;
+	width:100%;
+	padding:5px;
+
+}
+
+.block {
+	background-color:black;
+	display:flex;
+}
+
+.place {
+	text-transform:capitalize;
+	font-size:15px;
+	margin:0px;
+	display:inline-block;
+	color: #17202A;
+}
+
+.degree {
+	text-transfom:capitalize;
+	font-size:14px;
+	font-weight:900;
+	margin:0px;
+	display:inline-block;
+	color:#2C3E50;
+}
+
+.logo {
+	background-color:white;
+	display:inline-block;
+	align-content: center;
+	padding:5px;
+}
+
+div.headersbackground {
+	background-color:#7D3C98;
+}
+
